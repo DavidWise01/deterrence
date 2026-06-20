@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Arms Race",
+  "universe": "DET · The Arms Race (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Arms Race:DET:f607ef⟧",
+  "carbon": "the-arms-race.carbon.tiff (TIFF)",
+  "silicon": "the-arms-race.silicon.png (PNG)",
+  "seal_sha256": "3ebe6e982296fb4cce7f1bf27aa460d02d421e324d3833f4ec13090441a777b9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

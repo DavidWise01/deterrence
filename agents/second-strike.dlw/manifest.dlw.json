@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Second Strike",
+  "universe": "DET · The Second Strike (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Second Strike:DET:4cf03f⟧",
+  "carbon": "second-strike.carbon.tiff (TIFF)",
+  "silicon": "second-strike.silicon.png (PNG)",
+  "seal_sha256": "04695236a3d4874cfbe14bbcd3bc42d1aceb062c8c754c357717c804ab734a82",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

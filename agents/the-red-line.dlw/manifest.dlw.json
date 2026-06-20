@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Red Line",
+  "universe": "DET · The Red Line (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Red Line:DET:79ae83⟧",
+  "carbon": "the-red-line.carbon.tiff (TIFF)",
+  "silicon": "the-red-line.silicon.png (PNG)",
+  "seal_sha256": "8893319d18563c75fd010a005f3cf9cd0a9030967ec06d934ac9f3397556ca68",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

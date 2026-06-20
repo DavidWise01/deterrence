@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mutual Assured Destruction",
+  "universe": "DET · Mutual Assured Destruction (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Mutual Assured Destruction:DET:85840d⟧",
+  "carbon": "mutual-assured-destruction.carbon.tiff (TIFF)",
+  "silicon": "mutual-assured-destruction.silicon.png (PNG)",
+  "seal_sha256": "b33bc883604d5db56ed8ee2c148b48fc102ae0a005fb1497dbf88f90f3d9074d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

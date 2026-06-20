@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Near-Miss",
+  "universe": "DET · The Near-Miss (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The Near-Miss:DET:da0012⟧",
+  "carbon": "the-near-miss.carbon.tiff (TIFF)",
+  "silicon": "the-near-miss.silicon.png (PNG)",
+  "seal_sha256": "8fdafdbf461ff5df874d1561c41c1b349d59a23a034aa54b8ede73be61471137",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

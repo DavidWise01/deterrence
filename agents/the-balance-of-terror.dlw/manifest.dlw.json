@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Balance of Terror",
+  "universe": "DET · The Balance of Terror (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Balance of Terror:DET:ead6d2⟧",
+  "carbon": "the-balance-of-terror.carbon.tiff (TIFF)",
+  "silicon": "the-balance-of-terror.silicon.png (PNG)",
+  "seal_sha256": "8b7e0305512d6285b46efab90b1a61c69e732dc10477f8916adff511e77c6c31",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

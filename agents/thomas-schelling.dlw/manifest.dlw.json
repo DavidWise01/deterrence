@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Thomas Schelling",
+  "universe": "DET · Thomas Schelling (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦Thomas Schelling:DET:5a36bb⟧",
+  "carbon": "thomas-schelling.carbon.tiff (TIFF)",
+  "silicon": "thomas-schelling.silicon.png (PNG)",
+  "seal_sha256": "902c332c248f37f919f12ef6743f462e2dbcef5f0f25ff400373df9fa1479165",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

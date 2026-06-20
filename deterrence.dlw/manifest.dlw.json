@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "DETERRENCE",
+  "universe": "DET · DETERRENCE (polemos)",
+  "emergence": "",
+  "moniker": "⟦DETERRENCE:DET:4839f5⟧",
+  "carbon": "deterrence.carbon.tiff (TIFF)",
+  "silicon": "deterrence.silicon.png (PNG)",
+  "seal_sha256": "cff359535fe63af3d1f3a99ad8654fad5657609064c806d10a8273672645c9e6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
