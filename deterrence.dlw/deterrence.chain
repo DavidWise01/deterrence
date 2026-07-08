@@ -4,6 +4,6 @@ slug  : deterrence
 seal  : cff359535fe63af3d1f3a99ad8654fad5657609064c806d10a8273672645c9e6
 prev  : 91a40ad119cf30656b3370ec2ca46d208d19f9b867c6020d30ef428371497d7d
 link  : 08024bf07434deac9d4a6cadfd6fad6cbedbba9baf11bbeaa7a0f480e8532960
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
